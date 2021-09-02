@@ -1,27 +1,27 @@
-## First Name Last Name
+## Kyle Murphy
 
-### Term Year 
+### Freshman Year 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Precalculus Algebra/Trigonometry
 
-- Course 3
+- Intro to Programming Using Python
 
-- Course 4
+- Foundations for Academic Success
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- PC Gaming
 
-- Thing 2
+- Cars
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- The TCG Club at Florida Poly <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/2
