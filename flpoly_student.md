@@ -23,5 +23,14 @@ I am _passionate about_:
 - The TCG Club at Florida Poly <https://www.floridapoly.edu>
 
 ***
+|_Intro to Data Science_|  |_Intro to Python Programming_|  |_Precalculus_|  |_Foundations for academic success_|
+
+|:----------------------|  |:----------------------------|  |:------------|  |:---------------------------------|
+
+|**COP**                |  |        **COP**              |  |   **MAC**   |  |           **SLS**                |   
+|    **2073**           |  |          **2034**           |  | **1147**    |  |           **1901**               |
+|    3                  |  |        3                    |  |   4         |  |            0                     |
+
+
 
 > Last modified: 2021/09/2
